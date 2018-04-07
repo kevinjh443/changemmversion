@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mm_665_file_name">
+        <item>com.tencent.mm_6.6.5_1280.apk</item>
+    </string-array>
+
+    <string-array name="mm_653_file_name">
+        <item>weixin653.3987.apk</item>
+    </string-array>
+
+</resources>

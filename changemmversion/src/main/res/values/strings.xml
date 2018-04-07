@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">changemmversion</string>
+    <string name="title_home">主界面</string>
+    <string name="title_dashboard">副页面1</string>
+    <string name="title_notifications">副页面2</string>
+
+    <string name="introduce">“智能更换微信版本”：\n
+    主要用于在新老版本之间的微信版本之间切换。不需要您另外下载微信软件，手动去操作，您只需要点击一下按钮即可。\n
+        使用步骤：\n
+        1，确保打开了“智能障碍辅助”功能。（重启手机或重新安装此软件后无效，需要重新打开,在您不使用本软件的情况下把智能障碍辅助功能关闭，以免泄漏信息）\n
+        2, 直接在本界面点击“安装”或“卸载”，即可自动的进行安装和卸载。\n
+        3, 安装665版本->登录账号->再次进入此界面，卸载665->安装653版本->登录账号。\n
+        如有任何问题，请联系作者微信：kevinjh443
+    </string>
+
+    <string name="string_btn_install_665">智能安装 mm 665</string>
+    <string name="string_btn_install_653">智能安装 mm 653</string>
+    <string name="string_btn_uninstall_665">智能卸载 mm 665</string>
+    <string name="string_btn_uninstall_653">智能卸载 mm 653</string>
+
+    <string name="string_open_smart_install_btn">开启智能安装功能</string>
+    <string name="string_open_smart_install_lable">ChangeMMVersion微信智能安装</string>
+    <string name="string_open_smart_install_desc">ChangeMMVersion微信智能安装,建议开启后再进行自动的安装和卸载，极大减轻人力。</string>
+</resources>
